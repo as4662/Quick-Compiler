@@ -11,4 +11,4 @@ techniques to the intermediate code to improve efficiency. The sixth phase is co
 generation, where the final machine code is produced. Throughout the compilation process,
 a symbol table is maintained to store information about the program's symbols.
 Understanding the phases of a Java compiler is essential for efficient and effective Java
-programming.
+programming
